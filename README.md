@@ -6,7 +6,7 @@ This repo lists all my tech articles published on [Hashnode](https://tobechiduru
 
 ### 1. Building a Reusable Notification System with JavaScript and the DOM
 A practical walkthrough on creating a modular, scalable, and beautiful toast notification system using vanilla JavaScript. 
-🔗 [Read Article](ttps://tobechiduru.hashnode.dev/building-a-reusable-notification-system-with-javascript-and-the-dom)
+🔗 [Read Article](https://tobechiduru.hashnode.dev/building-a-reusable-notification-system-with-javascript-and-the-dom)
 
 ### 2. Building from the Ground Up — My Dev Philosophy  
 Why I Choose the MERN Stack, and What It Taught Me. 
